@@ -1,0 +1,6 @@
+
+#for monitor
+monitorPort=7177
+monitorSourceId=501
+monitorInterval=2000
+
